@@ -1,3 +1,4 @@
+wordpress-local/
 wordpress-local/wp-content/database/*.sqlite
 wordpress-local/wp-content/database/*.sqlite3
 wordpress-local/wp-content/database/debug.txt
