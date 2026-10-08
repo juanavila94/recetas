@@ -1,0 +1,15 @@
+wordpress-local/wp-content/database/*.sqlite
+wordpress-local/wp-content/database/*.sqlite3
+wordpress-local/wp-content/database/debug.txt
+wordpress-local/wp-content/uploads/*
+wordpress-local/wp-content/cache/
+wordpress-local/wp-content/upgrade/
+wordpress-local/wp-config.php
+wordpress-local/wp-admin/
+wordpress-local/wp-includes/
+wordpress-local/*.php
+wordpress-local/*.html
+wordpress-local/license.txt
+wordpress-local/readme.html
+*.log
+.DS_Store
